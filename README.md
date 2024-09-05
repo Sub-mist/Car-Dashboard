@@ -66,7 +66,7 @@ Ensure that the fuel_type column values are correctly formatted to avoid issues 
 |   ├── cleaned_data.csv
 |   └── cleaned_car_data.csv
 ├── .Streamlit
-|    └── df_new.csv
+|    └── config.toml
 ├── app.py
 ├── helper.ipynb
 ├── requirements.txt
